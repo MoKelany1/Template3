@@ -137,6 +137,7 @@ ul {
   box-shadow: 0 0 10px #DDD;
   background-color: white;
   position: relative;
+  transform: translateY(-18px);
 }
 
 .header .container {
