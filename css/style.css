@@ -112,26 +112,6 @@ ul {
 }
 
 /* End Global Rules */
-.top-button {
-  position: fixed;
-  right: 20px;
-  top: 578px;
-  width: 35px;
-  height: 35px;
-  background-color: var(--main-color);
-  border-radius: 3px;
-  text-decoration: none;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  font-weight: bold;
-  font-family: arial;
-  color: white;
-  font-size: 14px;
-  visibility: hidden;
-  z-index: 100;
-}
 /* Start Header  */
 .header {
   box-shadow: 0 0 10px #DDD;
