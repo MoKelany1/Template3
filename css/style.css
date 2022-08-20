@@ -23,7 +23,6 @@ html {
 }
 
 body {
-  position: relative;
   font-family: 'Cairo', sans-serif;
 }
 
@@ -174,11 +173,11 @@ ul {
   font-weight: bold;
 }
 
-.header .main-nav li:last-child:hover .megamenu {
+/* .header .main-nav li:last-child:hover .megamenu {
   z-index: 100;
   opacity: 1;
   top: 100%;
-}
+} */
 
 @media (max-width:767px) {
   .header .main-nav>li>a {
