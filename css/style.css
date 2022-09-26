@@ -1006,6 +1006,8 @@ ul {
   transition: var(--main-transition);
   display: block;
   border-radius: 0;
+  width: 0%;
+  transition: width 1s;
 }
 
 .our-skills .skill:hover .progress span {
